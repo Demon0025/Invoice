@@ -3,7 +3,7 @@
 
 ### START HERE
 # Set your URL without trailing slash here, e.g. http://your-domain.com
-# If you use a subdomain, use http://subdomain.your-domain.com
+# If you use a subdomain, use http://acc.winnerhc.com
 # If you use a subfolder, use http://your-domain.com/subfolder
 IP_URL=
 
@@ -22,11 +22,11 @@ DISABLE_SETUP=false
 REMOVE_INDEXPHP=false
 
 # These database settings are set during the initial setup
-DB_HOSTNAME=
-DB_USERNAME=
-DB_PASSWORD=
-DB_DATABASE=
-DB_PORT=
+DB_HOSTNAME= 68.178.150.231
+DB_USERNAME= Admin1
+DB_PASSWORD= Win_holi@2024
+DB_DATABASE= Invoice
+DB_PORT= 3306
 
 # If you want to be logged out after closing your browser window, set this setting to 0 (ZERO).
 # The number represents the amount of minutes after that IP will automatically log out users,
